@@ -1,5 +1,7 @@
 ### Hi there, I'm Nicko 👋
 
+I'm a passionate developer and love to learn new things ! 
+
 - 🔭 I’m currently active on finding jobs
 - 🌱 I’m currently learning golang
 - 📫 How to reach me: nicko.valentinoo@gmail.com
