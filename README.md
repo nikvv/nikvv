@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - Javascript
 - NodeJS
 - HTML5 / CSS3
+- SCSS
 - Vue
 - React
 - React-Native
