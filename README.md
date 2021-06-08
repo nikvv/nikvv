@@ -2,7 +2,6 @@
 
 I'm a passionate developer and love to learn new things ! 
 
-- 🔭 I’m currently active on finding jobs
 - 🌱 I’m currently learning python
 - 📫 How to reach me: nicko.valentinoo@gmail.com
 - ⚡ Fun fact: I'm a gamer and I do game development as side-project
