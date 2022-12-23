@@ -1,3 +1,3 @@
-"I am a full-stack developer with a passion for building efficient and scalable web applications. I am constantly seeking out new opportunities to expand my skills and knowledge in the field. 
+Hi there! I'm a full-stack developer with a love for creating efficient and scalable web apps. As a lifelong learner, I'm always looking for new ways to grow my skills and knowledge in the field.
 
-I am dedicated to staying up-to-date with the latest development trends and best practices, and am always open to new challenges and collaborations. My preferred stack includes MySQL, Javascript, Express, Nest JS, and React. Please feel free to get in touch if you have any questions or ideas."
+I'm committed to staying up-to-date with the latest development trends and best practices, and I'm open to new challenges and collaborations. My go-to tech stack includes MySQL, JavaScript (Node JS), Express, Nest JS, and React. Feel free to reach out if you have any questions or ideas you'd like to discuss. Looking forward to connecting with you!
